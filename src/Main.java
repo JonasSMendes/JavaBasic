@@ -5,7 +5,7 @@ public class Main {
         for (int i = 0; i < guitars.length; i++){
             Guitar atual = new Guitar("fender", 6);
 
-            atual.setGuitar("fender");
+            atual.setGuitar("guitar flash");
             guitars[i]=atual;
         }
 
